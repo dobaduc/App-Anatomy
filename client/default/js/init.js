@@ -67,11 +67,7 @@ function setUpMenuBar() {
 }
 
 function setUpReloadButton(){
-  // Check prefs to see whenre menu bar should be placed - top or bottom
-  var reload_container = $(prefs.reload_container);
-
-  // Clone the hidden menu bar into the appropriate container
-  reload_container.html("<input id='reload_button' type='button' value='Reload'>");
+  
 }
 
 

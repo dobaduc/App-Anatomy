@@ -14,11 +14,6 @@ var config = {
       "<br>Finally, I decided to write a whole new little library from scratch, in order to be able to write JS code in the way that I like (short, flexible, and strong), and never care about the weight of it. After 1 months without any Sunday or Saturday, Iâ€™ve finished my library DHTiny while writing another project for the customer."+
       "<br/>I don't aim my best efforts at making my DHTiny to be a well-known one, but I hope that some people will encourage my ideas including inside it. Now take a look at DHTiny developer's guide to see how it works." +
       "<br/><br/>Happy coding with DHTiny!"
-    ],
-    tab3: [
-      'The extra packages contain an override prefs.js which positions the tabs at different areas on screen.',
-      'The iOS and Android packages contain different UI themes - which consist of some different css and different images.',
-      'Try adding each of these packages to the Studio Preview under the Configuration accordion item and see the differences after refreshing this preview.'
     ]
   }
 };
